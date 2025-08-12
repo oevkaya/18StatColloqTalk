@@ -1,6 +1,5 @@
 # MIORPA-DataViz-August-2025
-Simple repo for the MIORPA one hour webinar on data visualization. Please see the related documents under each folder
-
+Simple repo for the MIORPA one hour webinar on data visualization. Please see the related documents under each folder. 
 You can see a list of readings with some slides on R and Python here
 
 ## Suggested readings for data viz with R 
