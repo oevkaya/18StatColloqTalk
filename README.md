@@ -2,9 +2,9 @@
 Simple repo for the MIORPA one hour webinar on data visualization. Please see the related documents under each folder. 
 You can see a list of readings with some slides on R and Python here
 
-Main file for R: DataViz-R/DataViz-R-MIORPA.html
+Main file for R: https://github.com/oevkaya/MIORPA-DataViz-August-2025/DataViz-R/DataViz-R-MIORPA.html
 
-Main file for Python: https://github.com/oevkaya/MIORPA-DataViz-August-2025/blob/main/DataViz-Py/Introduction2DataViz-MIORPA.html
+Main file for Python: https://github.com/oevkaya/MIORPA-DataViz-August-2025/DataViz-Py/Introduction2DataViz-MIORPA.html
 
 ## Suggested readings for data viz with R 
 
