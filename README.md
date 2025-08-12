@@ -2,9 +2,9 @@
 Simple repo for the MIORPA one hour webinar on data visualization. Please see the related documents under each folder. 
 You can see a list of readings with some slides on R and Python here
 
-Main file for R: See the .Rmd and .html file under the related folder
+**Main files for R**: See the .Rmd and .html file under the related folder -> DataViz-R
 
-Main file for Python: See the .ipynb and .html file under the related folder
+**Main files for Python**: See the .ipynb and .html file under the related folder -> DataViz-Py
 
 ## Suggested readings for data viz with R 
 
