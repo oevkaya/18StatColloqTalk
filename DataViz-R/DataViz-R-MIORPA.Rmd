@@ -165,19 +165,16 @@ ggplot(data = penguins,
 
 [From Data to Viz](https://www.data-to-viz.com/)
 
-## Number of variables involved in your DataViz
+## Number of variables involved
 
 - One variable (Univariate data analysis)
-  <!-- - Investigating a single variable -->
   - What is the _location_, _spread_ and _shape_ of the data?
   - Types of visualisations:**histogram**, **box plot**, **bar chart**, etc.
 - Two variables (Bivariate data analysis)
-  - Investigating the relationship between two variables
-  - Positive/negative correlation? Linear or non-linear relationship?
+  - Investigating the relationship between two variables. Positive/negative correlation? Linear or non-linear relationship?
   - Types of visualisations: **scatter plot**, **box plots**, **segmented bar plot**, etc.
 - Three or more variables (Multivariate data analysis)
   - Investigating the relationship between many variables simultaneously.
-  - Does the structure of the relationship between two variables change depending on the value of a third?
   - Use of **colour**, **style** and **faceting** - be creative!
   
 ## Motivating Data Set: Bats 
@@ -353,12 +350,12 @@ Key styling components:
 
 ## Very promising: Lots of ggplot2 extensions 
 
-- 151 registered extensions available to explor
+- 151 registered extensions available to explore
 - There are created with the same grammer of graphics approach so that they are following similar syntax behind the scene mostly 
-  - Specific packages for specific tasks can be found such as patchwork, gganimate, esquisse, ggcorplot etc. 
+  - Specific packages for specific tasks can be found such as **patchwork**, **gganimate**, **esquisse**, **ggcorplot** etc. 
 
-- Various packages designed for customization and additional theme usage such as ggthemes, ggpubr
-- Some packages are tailored to additional information on top of the visualization such as ggstatsplot
+- Various packages designed for customization and additional theme usage such as **ggthemes**, **ggpubr**
+- Some packages are tailored to additional information on top of the visualization such as **ggstatsplot**
 
 ## Interactive & Web-Based Visuals
 
