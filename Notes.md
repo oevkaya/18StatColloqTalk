@@ -2,7 +2,7 @@
 
 In terms of the data visualization task, it is crucial to understand the data set you have, type of variables and which data viz representations are suitable for the succesful data story telling. Beyond these details, it is a very design-oriented process from the design perspective to avoid any harm on human sight or perception. Rather than manipulating what the raw data says by its nature, the designer should stick to the certain design choices based on the problem and data set. For this purpose, this section collects and gathers various related ideas and details to investigate the necessity of data visualization for data communication and specific principles alongside the effective and responsible data visualization practices. 
 
-*"The simple graph has brought more information to the data analyst's mind than any other device." --- John Tukey*
+> The simple graph has brought more information to the data analyst's mind than any other device. (John Tukey)
 
 ### 3.1 What is Data Visulization, Why Do We Need to Visualize?
 
