@@ -1,8 +1,8 @@
 ---
-title: "Intro to Data Visualization in R"
+title: "Intro to Data Visualization"
 subtitle: "A gentle, practical start"
 author: "OzanEvkaya"
-date: "2025-08-12"
+date: "2025-10-18"
 output: 
   ioslides_presentation:
     nature:
@@ -20,9 +20,32 @@ knitr::opts_chunk$set(echo = FALSE, fig.width = 8, fig.height = 5, fig.align = "
 ```{r, warning=FALSE, message=FALSE}
 library(tidyverse)
 ```
+## Why I am here
 
+## Data representation 
 
-## Why Visualize
+- Data are observations or measurements (unprocessed or processed) of various data types: numbers, characters, factors, dates, etc. A dataset is a structured collection of data associated with a unique body of work.
+- Symbols that represent people, events, things or ideas etc. regarding the type that we are dealing with
+- Humanities perspective:
+  - "Almost nothing in the world IS data. ‘Data’ is an abstraction we use to make
+certain kinds of inquiry possible.” [Natalia Cecire]
+  – "Data is not a “given” but “taken actively” and constructed" [Johanna Drucker]
+- Data Representation: The form in which data is stored and communicated, might differ in various ways.
+
+## Historic Examples
+
+## Why DataViz is powerful
+
+Visualization leverages the human visual system to facilitate
+- Understanding
+– Discovery
+– Decision making
+– Communication
+– Memory
+
+**Our brain is capable of quick and efficient visual information processing at a pre-conscious level**
+
+## Why Visualize - Repeating again
 
 - See patterns, spot anomalies, generate questions. The purpose is to literally *see* what your data seems to say.
 - Communicate findings clearly and persuasively.
@@ -30,6 +53,8 @@ library(tidyverse)
 - Human brains are very good at identifying complex patterns ... and similarly they can easily be fooled!
 
 > *"The simple graph has brought more information to the data analyst's mind than any other device." --- John Tukey*
+> *"Data and information visualization is concerned with showing quantitative and qualitative information, so that a viewer can see
+patterns, trends or anomalies, constancy or variation, in ways that other forms—text and tables—do not allow" --- Michael Friendly*
 
 ## What is EDA?
 
