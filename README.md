@@ -13,6 +13,10 @@ Please see the related documents under each folder. You can see a list of readin
 
 **Main files for Python**: See the .ipynb and .html file under the related folder -> DataViz-Py
 
+### Historic examples 
+
+[The Golden Age of Statistical Graphics.](https://www.sci.utah.edu/~kpotter/Library/Papers/friendly:2008:GASS/)
+
 ### Suggested readings for data viz with R 
 
 ggplot related main sources
