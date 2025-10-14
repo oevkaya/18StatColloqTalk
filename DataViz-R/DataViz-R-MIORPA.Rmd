@@ -45,6 +45,44 @@ Visualization leverages the human visual system to facilitate
 
 **Our brain is capable of quick and efficient visual information processing at a pre-conscious level**
 
+## Double Diamond Process
+
+- discover : Understand the challenge/problem
+- define : define the challenge/problem
+- develop : explore different solutions
+- deliver : testing different solutions
+
+For data visualizaiton task, we can imagine the nested model of the data visualisation design process
+
+- domain: Who are the target users?
+- abstraction: What needs to be shown? Why should people look at it?
+- (visual) encoding / interaction: What should be represented? How the representation can be manipulated
+- format :  How do we make it happen?
+
+## About data visualisation guidelines
+
+- Structure of data – attributes (types), data items or values
+- Visual marks/channels/variables
+- Mapping data types to in different visual channels
+- Expressiveness - The visual encoding should express all of, and only, the information in the dataset attributes
+- Effectiveness - The importance of the data attribute should be encoded with the most effective visual variable, in order to be noticeable
+
+## Visual marks and channels
+
+- Data  variables (attributes) are encoded in different ways
+- Thinking through appropriateness of different channels is the key in an iterative way
+- Some example marks and channels
+
+Image add
+
+## Effectiveness & Expressiveness
+
+Image add
+
+## Take a pause - What do you think?
+
+Image to discuss
+
 ## Why Visualize - Repeating again
 
 - See patterns, spot anomalies, generate questions. The purpose is to literally *see* what your data seems to say.
@@ -411,12 +449,11 @@ Key styling components:
 - Palette design or themes? → ggthemes
 - Prefer a GUI to build plots? → Esquisse
 
-## What about the Python world ?
+## What about the Python world ? See the repo!
 
-- In my view, R seems still more powerful compared to python 
-
+- In my view, R seems still more powerful compared to python regarding the available tools
 - However, there is a growing list of python libraries with a community also 
-
-- Let us move to the other document now!
+- In terms of your general programming habits you can start the safest position
+- There are nowadays more common packages for both landscape 
 
 
