@@ -1,0 +1,15 @@
+/* Increase overall slide text size */
+.slides > article {
+  font-size: 22px;            /* tweak: 26–34px */
+  line-height: 1.4;
+}
+
+/* Make headings scale nicely */
+.slides > article h1 { font-size: 2.0em; }
+.slides > article h2 { font-size: 1.6em; }
+.slides > article h3 { font-size: 1.2em; }
+
+/* Code blocks a touch smaller than body */
+.slides > article pre code {
+  font-size: 0.8em;
+}
