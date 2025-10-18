@@ -36,6 +36,8 @@ knitr::include_graphics("edi.jpg")
 
 # Veri, Veri, Veri
 
+> The representation of numbers … should be directly proportional to the numerical quantities measured. — Edward Tufte 1983
+
 ## Data representation 
 
 - A dataset is a structured collection of data (observations or measurements (unprocessed or processed) of various data types: numbers, characters, factors, dates, etc.) associated with a unique field.
