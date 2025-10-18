@@ -231,6 +231,9 @@ knitr::include_graphics("DataViz-StoryTelling.png")
 ```
 
 
+Source for Example: Storytelling with data a data visualization guide for business professionals
+Knaflic, Cole Nussbaumer, Wiley, 2015
+
 # R içerisinde neler var? 
 
 > *"Data and information visualization is concerned with showing quantitative and qualitative information, so that a viewer can see patterns, trends or anomalies, constancy or variation, in ways that other forms—text and tables—do not allow" --- Michael Friendly*
@@ -685,7 +688,7 @@ knitr::include_graphics("OpenAI_MosaicEx.png")
 
 ## GAIL project Örneği
 
-```{r, out.width='50%', fig.align='center'}
+```{r, out.width='45%', fig.align='center'}
 knitr::include_graphics("GAIL_FigEx.png")
 ```
 
@@ -722,7 +725,7 @@ knitr::include_graphics("GAIL_FigEx.png")
 
 - Belirli gruplar ile veri görseli odaklı yarışmalar vb düzenlenebilir, online etkinlikler (R consortium, Python webinars gibi) düzenli takip edilebilir
 
-- R ve pythonda olan paket ve örneklerin hangi durumlarda nasıl işe yarayacağı ara ara düzenli okuma ve takiplerle bir düzenli takip alışkanlığına getirilebilri
+- R ve pythonda olan paket ve örneklerin hangi durumlarda nasıl işe yarayacağı ara ara düzenli okuma ve takiplerle bir düzenli takip alışkanlığına getirilebilir
 
 ## İyi Kötü Çirkin 
 
